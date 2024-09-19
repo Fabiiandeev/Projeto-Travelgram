@@ -17,6 +17,14 @@ header .container{
 
 #profile > div{
     max-width: 384px;
+
+}
+
+#profile img{
+    width: 176px;
+    height: 176px;
+    object-fit: couver;
+    border-radius: 50%;
 }
 
 #profile h1{
