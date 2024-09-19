@@ -1,6 +1,6 @@
 Travelgram 🌍📸
 
-Travelgram Logo <img src="assets/Logo.svg" alt="logo">
+ <img src="assets/Logo.svg" alt="logo">
 
 Descrição
 Travelgram é uma plataforma social inovadora projetada para viajantes apaixonados. Aqui, você pode compartilhar suas experiências de viagem, descobrir novos destinos e conectar-se com outros viajantes ao redor do mundo. Com um design intuitivo e funcionalidades envolventes, o Travelgram transforma a maneira como você interage com suas memórias de viagem!
